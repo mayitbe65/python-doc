@@ -52,7 +52,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Warehouse：PyPA 提供的 PyPI 镜像工具。[官网](https://warehouse.python.org/) [bandersnatch](https://bitbucket.org/pypa/bandersnatch)
 
-*devpi：PyPI 服务和打包/测试/分发工具。[官网](http://doc.devpi.net/)
+* devpi：PyPI 服务和打包/测试/分发工具。[官网](http://doc.devpi.net/)
 
 * localshop：本地 PyPI 服务（自定义包并且自动对 PyPI 镜像）。[官网](https://github.com/mvantellingen/localshop)
 
